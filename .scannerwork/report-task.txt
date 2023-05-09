@@ -1,0 +1,6 @@
+projectKey=Social-Directory
+serverUrl=http://localhost:9005
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9005/dashboard?id=Social-Directory
+ceTaskId=AYA8rEMYfGNlnQ4JA19N
+ceTaskUrl=http://localhost:9005/api/ce/task?id=AYA8rEMYfGNlnQ4JA19N
